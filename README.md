@@ -10,5 +10,5 @@ c++事件驱动模拟库，作为一个实验项目，主要目的是供大家�
 
 # 参考资料
 
-[1]: https://zhuanlan.zhihu.com/p/88028766 "（用户指南）使用<tk>做事件驱动模拟"
-[2]: https://zhuanlan.zhihu.com/p/88758535 "（技术报告）<tk>:一个可移植的c++事件驱动模拟库"
+[1]: <https://zhuanlan.zhihu.com/p/88028766> "（用户指南）使用<tk>做事件驱动模拟"
+[2]: <https://zhuanlan.zhihu.com/p/88758535> "（技术报告）<tk>:一个可移植的c++事件驱动模拟库"
